@@ -31,6 +31,7 @@ return {
         "yaml",
         "rust",
         "cpp",
+        "cmake",
       },
       incremental_selection = {
         enable = true,
