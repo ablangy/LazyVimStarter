@@ -8,6 +8,7 @@ return {
         "shfmt",
         "cmakelang",
         "cmakelint",
+        "codelldb",
       },
     },
   },
